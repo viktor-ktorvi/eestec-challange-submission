@@ -8,3 +8,8 @@
 5. ```pip install requirements.txt```
 
 Hopefully it works. If not we hope it's not hard to solve
+
+6. Relocate to ```submisson/code```
+7. Run ```pipeline.ipynb``` to see results
+
+The way we like to run the notebooks is by opening Anaconda navigator, changing the interpreter to `radar_env` and then running the notebook. 
